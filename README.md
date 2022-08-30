@@ -1,6 +1,4 @@
 # WineMLApp
-Streamlit webapp that predicts the class of wine using python machine learning libraries. 
-
 
 Hello! This is a ML web app that is built using python. I have always been interested in data science and so I decided to make an application for it!
 
